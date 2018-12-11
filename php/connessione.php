@@ -1,6 +1,6 @@
 <?php
 $user="2379818_sito";
-$pass="Shamsher-98";
+$pass="***********";
 $host="fdb17.runhosting.com";
 $db="2379818_sito";  //cambiare nome database 
 $conn=mysqli_connect($host,$user,$pass,$db);
