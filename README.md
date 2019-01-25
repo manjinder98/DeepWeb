@@ -2,6 +2,9 @@
 
 [Creative](http://startbootstrap.com/template-overviews/creative/) is a one page creative theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
+## Functionalities of the Website
+Informational webpage, regarding the topic of Deep Web, with a web form connected to a database using MySQL and PHP.
+
 ## Getting Started
 
 To begin using this template, choose one of the following options to get started:
